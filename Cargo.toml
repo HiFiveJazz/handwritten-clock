@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+minifb = "0.23"
+resvg = "0.18"
+tiny-skia = "0.6"
